@@ -1,0 +1,13 @@
+# When adding or modifying your group, please maintain the same format used here. Examples of 
+the "Domains Interested in" section are Parallel Programming, Medical Software, Compilers, 
+Automotives, Consumer Electronics, etc. related to software. This will enable me to assign appropriate
+projects to your group.
+
+Group #1 : Pink Dolls
+Team Members : King Junaid, Prince Aqib
+Section : A
+Domains Interested in : Cooking and Cleaning
+
+Group #2 : Jelly Beans
+Team Members : Santhosh Guru, Keyboard Nitesh, Shubham Holmes
+Domains Interested in : Washing and Drying
