@@ -8,17 +8,7 @@ Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
 Domains Interested in : Parallel Programming, Compilers, Web programming.
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
-Languages that we plan to use : Java or C++ or Python
-
-
-
-
-
-
-
-
-
-
+Languages that we plan to use : Java, C++ or Python
 
 Group #2 : Pani Puri Boys
 Team Members : Santhosh Guru, Keyboard Nitesh, Shubham Holmes
