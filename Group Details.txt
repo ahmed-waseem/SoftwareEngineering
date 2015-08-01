@@ -1,26 +1,20 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Group #4 : pearls
-Team Members : Crista,Dharani,Divya,Bhuvaneshwari,Baghya Lakshmi,
+Group #1 : The Secret Squad
+Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
-Domains Interested in :medical, sales, 
+Domains Interested in : Parallel Programming, Compilers, Web programming.
+Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
+Languages that we plan to use : Java, C++ or Python
+
+Group #2 : Pani Puri Boys
+Team Members : Santhosh Guru, Keyboard Nitesh, Shubham Holmes
+Section : B
+Domains Interested in : Washing and Drying
+Tools that we plan to use : GitHub, Sparx Architect, Eclipse, Surf Excel, Clothes Line, Magnifying Lens
+Languages that we plan to use : Python or Ruby
+
+Group #3 : pearls
+Team Members : Crista, Dharani, Divya, Bhuvaneshwari, Baghya Lakshmi
+Section : A
+Domains Interested in : Medical, sales, 
 Tools that we plan to use : GitHub, Rational Rose, 
 Languages that we plan to use : C or C++ or python(basics), java(basic)
-
