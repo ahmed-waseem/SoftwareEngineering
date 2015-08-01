@@ -3,12 +3,22 @@ the "Domains Interested in" section are Parallel Programming, Medical Software, 
 Automotives, Consumer Electronics, etc. related to software. This will enable me to assign appropriate
 projects to your group.
 
-Group #1 : Pink Dolls
-Team Members : King Junaid, Prince Aqib
+Group #1 : The Secret Squad
+Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
-Domains Interested in : Cooking and Cleaning
+Domains Interested in : Parallel Programming, Compilers, Web programming.
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
-Languages that we plan to use : Java or C++
+Languages that we plan to use : Java or C++ or Python
+
+
+
+
+
+
+
+
+
+
 
 Group #2 : Pani Puri Boys
 Team Members : Santhosh Guru, Keyboard Nitesh, Shubham Holmes
