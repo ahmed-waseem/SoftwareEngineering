@@ -1,9 +1,5 @@
-# When adding or modifying your group, please maintain the same format used here. Examples of 
-the "Domains Interested in" section are Parallel Programming, Medical Software, Compilers, 
-Automotives, Consumer Electronics, etc. related to software. This will enable me to assign appropriate
-projects to your group.
 
-Group #1 : pearls
+Group #4 : pearls
 Team Members : Crista,Dharani,Divya,Bhuvaneshwari,Baghya Lakshmi,
 Section : A
 Domains Interested in :medical, sales, 
