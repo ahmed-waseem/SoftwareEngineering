@@ -1,3 +1,11 @@
+When adding or modifying your group, please maintain the same format used here. DO NOT DELETE ANY 
+LINES FROM THE FILE. Just add lines at the end with your group details. 
+
+Examples of the "Domains Interested in" section are Parallel Programming, Medical Software, Compilers, 
+Automotives, Consumer Electronics, etc. related to software. This will enable me to assign appropriate
+projects to your group.
+-------------------------------------------------------------------------------------------------
+
 Group #1 : The Secret Squad
 Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
