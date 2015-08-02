@@ -39,4 +39,4 @@ Team Members : Mary lavanya , Mohanapriya , Monica , Nandini
 Section : A
 Domains Interested in : Medical
 Tools Interested we plan to use : GitHub
-Languages that we plan to use : c or c++
+Languages that we plan to use : c / c++
