@@ -15,7 +15,7 @@ Languages that we plan to use : Java, C++ or Python
 
 Group #2 : Brothers of The Night's Watch
 Team Members : Santosh Sampras, Nitesh Pathak, Shubham Kumar,(Faran Baig ?) 
-Section : B
+Section : A and B
 Domains Interested in : Web Developement & Design, App Developement, Browser plugins and extensions.  
 Tools that we plan to use : GitHub, Sublime Text, Eclipse.
 Languages that we plan to use : HTML5 with Python, Ruby, JavaScript or PHP / Java for App Developement. 
