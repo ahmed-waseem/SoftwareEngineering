@@ -40,3 +40,10 @@ Section : A
 Domains Interested in : Medical , sales.
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++
+
+Group #6: AA
+Team Members : Abhash , Avinash
+Section : A
+Domains Interested in : web design
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++ , java
