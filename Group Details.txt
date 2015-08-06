@@ -6,12 +6,12 @@ Automotives, Consumer Electronics, etc. related to software. This will enable me
 projects to your group.
 -------------------------------------------------------------------------------------------------
 
-Group #1 : The Secret Squad
+Group #1 : The Computer ConQuerorS
 Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
 Domains Interested in : Parallel Programming, Compilers, Web programming.
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
-Languages that we plan to use : Java, C++ or Python
+Languages that we plan to use : Java, C++,Python or Pascal.
 
 Group #2 : Brothers of The Night's Watch
 Team Members : Santosh Sampras, Nitesh Pathak, Shubham Kumar,(Faran Baig ?) 
@@ -35,8 +35,8 @@ Tools that we plan to use : GitHub
 Languages that we plan to use : C / C++
 
 Group #5: sapphire
-Team Members : Mary lavanya , Mohanapriya , Monica , Nandini
+Team Members : Mary lavanya , Mohanapriya , Monica , Nandini saini
 Section : A
-Domains Interested in : Medical
+Domains Interested in : Medical , sales.
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++
