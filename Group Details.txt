@@ -30,7 +30,7 @@ Languages that we plan to use : C or C++ or python(basics), java(basic)
 Group #4: Robo Girls in.
 Team Members : Ayesha , Manisha , Noorah , Pallavi
 Section : A
-Domains Interested in : web design.
+Domains Interested in : Web Designing,Photo shop,App development,Something New
 Tools that we plan to use : GitHub
 Languages that we plan to use : C / C++
 
