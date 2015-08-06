@@ -48,3 +48,10 @@ Section : A
 Domains Interested in :programming
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
 Languages that we plan to use : Java, C++,Python or Pascal.
+
+Group #7: coders
+Team Members : syed zuhaib k,ruhul amin choudary,kashif baig
+Section : B
+Domains Interested in : programming
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++,Java
