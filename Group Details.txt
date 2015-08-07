@@ -27,10 +27,10 @@ Domains Interested in : Medical, sales,
 Tools that we plan to use : GitHub, Rational Rose, 
 Languages that we plan to use : C or C++ or python(basics), java(basic)
 
-Group #4: Robo Girls in.
+Group #4: ROBO GIRLS
 Team Members : Ayesha , Manisha , Noorah , Pallavi
 Section : A
-Domains Interested in : web design.
+Domains Interested in : Web Designing,Photo shop,App development,Something New
 Tools that we plan to use : GitHub
 Languages that we plan to use : C / C++
 
@@ -54,3 +54,10 @@ Section : A
 Domains Interested in : web design
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++ , java
+
+Group #8: coders
+Team Members : syed zuhaib k,ruhul amin choudary,kashif baig
+Section : B
+Domains Interested in : programming
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++,Java
