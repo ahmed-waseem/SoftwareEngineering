@@ -32,7 +32,7 @@ Team Members : Ayesha , Manisha , Noorah , Pallavi
 Section : A
 Domains Interested in : Web Designing,Photo shop,App development,Something New
 Tools that we plan to use : GitHub
-Languages that we plan to use : C / C++
+Languages that we plan to use : C / C++ /python(basic)
 
 Group #5: sapphire
 Team Members : Mary lavanya , Mohanapriya , Monica , Nandini saini
