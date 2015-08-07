@@ -41,10 +41,16 @@ Domains Interested in : Medical , sales.
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++
 
-
 Group #6 : The soul stealers
 Team Members : Nayan, Aquib, Ankush, Shahryar 
 Section : A
 Domains Interested in :programming
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
 Languages that we plan to use : Java, C++,Python or Pascal.
+
+Group #7: AA
+Team Members : Abhash , Avinash
+Section : A
+Domains Interested in : web design
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++ , java
