@@ -61,3 +61,10 @@ Section : B
 Domains Interested in : programming
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++,Java
+
+group #9: dimension
+Team members:sowmya s,sneha s,supriya kumari,vandana kumari,hibza khauser
+section:B
+Domains interested in: web designing,parallel programming
+Tools interested in:Git hub
+languages that we plan to use:c,c++,java
