@@ -28,7 +28,7 @@ Tools that we plan to use : GitHub, Rational Rose,
 Languages that we plan to use : C or C++ or python(basics), java(basic)
 
 Group #4: ROBO GIRLS
-Team Members : Ayesha , Manisha , Noorah , Pallavi
+Team Members : Ayesha Afreen, Manisha Yadav, Noorah Khalid, Pallavi Acharya
 Section : A
 Domains Interested in : Web Designing,Photo shop,App development,Something New
 Tools that we plan to use : GitHub
