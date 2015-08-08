@@ -44,6 +44,6 @@ Languages that we plan to use : c / c++
 Group #6: Super 6
 Team Members : Manisha Bhakhar, Deepika.S, Geeta Joshi, Ashin tomar ,Asma Bathool, Javeria Samreen
 Section : A
-Domains Interested in : Defence, Medical,Web designing 
+Domains Interested in : Defence, Medical,Web designing.. 
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++
