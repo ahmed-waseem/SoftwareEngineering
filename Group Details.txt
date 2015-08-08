@@ -46,4 +46,4 @@ Team Members : Manisha Bhakhar, Deepika.S, Geeta Joshi, Ashin tomar ,Asma Bathoo
 Section : A
 Domains Interested in : Defence, Medical,Web designing
 Tools Interested we plan to use : GitHub
-Languages that we plan to use : c / c++
+Languages that we plan to use : c , c++,java
