@@ -68,3 +68,10 @@ section:B
 Domains interested in: web designing,parallel programming
 Tools interested in:Git hub
 languages that we plan to use:c,c++,java
+
+group #10: Super6
+Team Members: Manisha Bhakhar, Deepika.S, Geeta Joshi, Ashin tomar, Asma Bathool, Javeria Samreen 
+Section :A
+Domains Interested in :Defence, Medical, Web designing 
+Tools Interested In:GitHub 
+Languages that we plan to use :c,c++
