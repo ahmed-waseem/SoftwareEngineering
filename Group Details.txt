@@ -1,28 +1,70 @@
-# When adding or modifying your group, please maintain the same format used here. Examples of 
-the "Domains Interested in" section are Parallel Programming, Medical Software, Compilers, 
+When adding or modifying your group, please maintain the same format used here. DO NOT DELETE ANY 
+LINES FROM THE FILE. Just add lines at the end with your group details. 
+
+Examples of the "Domains Interested in" section are Parallel Programming, Medical Software, Compilers, 
 Automotives, Consumer Electronics, etc. related to software. This will enable me to assign appropriate
 projects to your group.
+-------------------------------------------------------------------------------------------------
 
-Group #1 : The Secret Squad
+Group #1 : The Computer ConQuerorS
 Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
 Domains Interested in : Parallel Programming, Compilers, Web programming.
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
-Languages that we plan to use : Java or C++ or Python
+Languages that we plan to use : Java, C++,Python or Pascal.
 
+Group #2 : Brothers of The Night's Watch
+Team Members : Santosh Sampras, Nitesh Pathak, Shubham Kumar,(Faran Baig ?) 
+Section : A and B
+Domains Interested in : Web Developement & Design, App Developement, Browser plugins and extensions.  
+Tools that we plan to use : GitHub, Sublime Text, Eclipse.
+Languages that we plan to use : HTML5 with Python, Ruby, JavaScript or PHP / Java for App Developement. 
 
+Group #3 : pearls
+Team Members : Crista, Dharani, Divya, Bhuvaneshwari, Baghya Lakshmi
+Section : A
+Domains Interested in : Medical, sales, 
+Tools that we plan to use : GitHub, Rational Rose, 
+Languages that we plan to use : C or C++ or python(basics), java(basic)
 
+Group #4: ROBO GIRLS
+Team Members : Ayesha , Manisha , Noorah , Pallavi
+Section : A
+Domains Interested in : Web Designing,Photo shop,App development,Something New
+Tools that we plan to use : GitHub
+Languages that we plan to use : C / C++ /python(basic)
 
+Group #5: sapphire
+Team Members : Mary lavanya , Mohanapriya , Monica , Nandini saini
+Section : A
+Domains Interested in : Medical , sales.
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++
 
+Group #6 : The soul stealers
+Team Members : Nayan, Aquib, Ankush, Shahryar 
+Section : A
+Domains Interested in :programming
+Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
+Languages that we plan to use : Java, C++,Python or Pascal.
 
+Group #7: AA
+Team Members : Abhash , Avinash
+Section : A
+Domains Interested in : web design
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++ , java
 
-
-
-
-
-Group #2 : Pani Puri Boys
-Team Members : Santhosh Guru, Keyboard Nitesh, Shubham Holmes
+Group #8: coders
+Team Members : syed zuhaib k,ruhul amin choudary,kashif baig
 Section : B
-Domains Interested in : Washing and Drying
-Tools that we plan to use : GitHub, Sparx Architect, Eclipse, Surf Excel, Clothes Line, Magnifying Lens
-Languages that we plan to use : Python or Ruby
+Domains Interested in : programming
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++,Java
+
+group #9: dimension
+Team members:sowmya s,sneha s,supriya kumari,vandana kumari,hibza khauser
+section:B
+Domains interested in: web designing,parallel programming
+Tools interested in:Git hub
+languages that we plan to use:c,c++,java
