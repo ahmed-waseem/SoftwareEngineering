@@ -9,9 +9,9 @@ projects to your group.
 Group #1 : The ArchKnights
 Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
-Domains Interested in : Parallel Programming, Compilers, Web programming, IoT, Data Mining, App Development.
+Domains Interested in : Parallel Programming, Compilers, Web programming, IoT, AI, Data Mining, App Development.
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
-Languages that we plan to use : Ruby on Rails, R, Javascript, Java, C++, Python and/or swift for App Devel.
+Languages that we plan to use : Ruby on Rails, R, Javascript, Java, C++, Python and/or Swift for App Devel.
 
 Group #2 : Brothers of The Night's Watch
 Team Members : Santosh Sampras, Nitesh Pathak, Shubham Kumar,(Faran Baig ?) 
