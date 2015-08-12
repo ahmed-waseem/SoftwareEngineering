@@ -37,7 +37,7 @@ Languages that we plan to use : C / C++ /python(basic)
 Group #5: sapphire
 Team Members : Mary lavanya , Mohanapriya , Monica , Nandini saini
 Section : A
-Domains Interested in : Medical , sales.
+Domains Interested in : Marketing Agricutural Goods
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++
 
