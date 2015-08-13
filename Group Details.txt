@@ -23,8 +23,8 @@ Languages that we plan to use : HTML5 with Python, Ruby, JavaScript or PHP / Jav
 Group #3 : pearls
 Team Members : Crista, Dharani, Divya, Bhuvaneshwari, Baghya Lakshmi
 Section : A
-Domains Interested in : Medical, sales, 
-Tools that we plan to use : GitHub, Rational Rose, 
+Domains Interested in : event management/ road quality analysis (libration sensor on automobiles) 
+Tools that we plan to use : GitHub, Rational Rose,Dai  
 Languages that we plan to use : C or C++ or python(basics), java(basic)
 
 Group #4: ROBO GIRLS
