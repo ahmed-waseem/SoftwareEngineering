@@ -30,9 +30,10 @@ Languages that we plan to use : C or C++ or python(basics), java(basic)
 Group #4: ROBO GIRLS
 Team Members : Ayesha Afreen, Manisha Yadav, Noorah Khalid, Pallavi Acharya
 Section : A
-Domains Interested in : Web Designing,Photo shop,App development,Something New
-Tools that we plan to use : GitHub
 Languages that we plan to use : C / C++ /python(basic)
+Domains Interested in : Web Designing,Photo shop,App development,Event Management
+Tools that we plan to use : GitHub.
+Languages that we plan to use : C / C++
 
 Group #5: sapphire
 Team Members : Mary lavanya , Mohanapriya , Monica , Nandini saini
