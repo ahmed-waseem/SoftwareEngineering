@@ -43,7 +43,7 @@ Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++
 
 Group #6 : The soul stealers
-Team Members : Nayan, Aquib, Ankush, Shahryar 
+Team Members : Nayan, Aquib, Ankush, Shahryar, Mirazul Alom, Affan Zahid
 Section : A
 Domains Interested in :programming
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
