@@ -6,16 +6,16 @@ Automotives, Consumer Electronics, etc. related to software. This will enable me
 projects to your group.
 -------------------------------------------------------------------------------------------------
 
-Group #1 : The Secret Squad
+Group #1 : The ArchKnights
 Team Members : Aqib Ahmed, Burhan Ahmed, Junaid Ahmed, Mohammed Huzaif
 Section : A
-Domains Interested in : Parallel Programming, Compilers, Web programming.
+Domains Interested in : Parallel Programming, Compilers, Web programming, IoT, AI, Data Mining, App Development.
 Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
-Languages that we plan to use : Java, C++ or Python
+Languages that we plan to use : Ruby on Rails, R, Javascript, Java, C++, Python and/or Swift for App Devel.
 
 Group #2 : Brothers of The Night's Watch
 Team Members : Santosh Sampras, Nitesh Pathak, Shubham Kumar,(Faran Baig ?) 
-Section : B
+Section : A and B
 Domains Interested in : Web Developement & Design, App Developement, Browser plugins and extensions.  
 Tools that we plan to use : GitHub, Sublime Text, Eclipse.
 Languages that we plan to use : HTML5 with Python, Ruby, JavaScript or PHP / Java for App Developement. 
@@ -23,20 +23,63 @@ Languages that we plan to use : HTML5 with Python, Ruby, JavaScript or PHP / Jav
 Group #3 : pearls
 Team Members : Crista, Dharani, Divya, Bhuvaneshwari, Baghya Lakshmi
 Section : A
-Domains Interested in : Medical, sales, 
-Tools that we plan to use : GitHub, Rational Rose, 
+Domains Interested in : event management/ road quality analysis (libration sensor on automobiles) 
+Tools that we plan to use : GitHub, Rational Rose,Dai  
 Languages that we plan to use : C or C++ or python(basics), java(basic)
 
-Group #4: Robo Girls in.
-Team Members : Ayesha , Manisha , Noorah , Pallavi
+Group #4: ROBO GIRLS
+Team Members : Ayesha Afreen, Manisha Yadav, Noorah Khalid, Pallavi Acharya
 Section : A
-Domains Interested in : web design.
-Tools that we plan to use : GitHub
+Languages that we plan to use : C / C++ /python(basic)
+Domains Interested in : Web Designing,Photo shop,App development,Event Management
+Tools that we plan to use : GitHub.
 Languages that we plan to use : C / C++
 
 Group #5: sapphire
-Team Members : Mary lavanya , Mohanapriya , Monica , Nandini
+Team Members : Mary lavanya , Mohanapriya , Monica , Nandini saini
 Section : A
-Domains Interested in : Medical
+Domains Interested in : Marketing Agricutural Goods
 Tools Interested we plan to use : GitHub
 Languages that we plan to use : c / c++
+
+Group #6 : The soul stealers
+Team Members : Nayan, Aquib, Ankush, Shahryar, Mirazul Alom, Affan Zahid
+Section : A
+Domains Interested in :programming
+Tools that we plan to use : GitHub, Rational Rose, Eclipse, Stove, Spices
+Languages that we plan to use : Java, C++,Python or Pascal.
+
+Group #7: AA
+Team Members : Abhash , Avinash
+Section : A
+Domains Interested in : web design
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++ , java
+
+Group #8: coders
+Team Members : syed zuhaib k,ruhul amin choudary,kashif baig
+Section : B
+Domains Interested in : programming
+Tools Interested we plan to use : GitHub
+Languages that we plan to use : c / c++,Java
+
+group #9: dimension
+Team members:sowmya s,sneha s,supriya kumari,vandana kumari,hibza khauser
+section:B
+Domains interested in: web designing,parallel programming
+Tools interested in:Git hub
+languages that we plan to use:c,c++,java
+
+group #10: Super6
+Team Members: Manisha Bhakhar, Deepika.S, Geeta Joshi, Ashin tomar, Asma Bathool, Javeria Samreen 
+Section :A
+Domains Interested in :Defence, Medical, Web designing 
+Tools Interested In:GitHub 
+Languages that we plan to use :c,c++
+
+group #11: Dongle
+Team Members: Ashwini, Keerthi, Ammu, Anitha, Kavya 
+Section :A
+Domains Interested in :Flood warning System
+Tools Interested In:GitHub,Rational rose, Dai 
+Languages that we plan to use :c,c++
