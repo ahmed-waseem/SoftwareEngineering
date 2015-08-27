@@ -6,6 +6,8 @@ Functional Requirements:
 
 2. The System shall profile the files given as input and generate appropriate statistics.
   2.1. It should identify the bottlenecks and rank the functions.
+  2.2. The system shall show average call time from the calls of the function.
+  2.3. The system shall use statistical profilers to profile the programme such as GPROF. 
 
 3. The given file should run irrespective of any architecture.
   3.1. The given file should run sequentially.
@@ -39,6 +41,27 @@ Functional Requirements:
 14. The System shall display the file size and other information after parallelizing.
 
 15. The System shall have the ability to use different algorithms.
+
+16. The system shall use the best locality or memory system.
+
+17. The system shall automatically generate fix suggestions to programmers.
+
+18. The system shall divide the work perfectly among the processors.
+
+19. The system shall provide versioning system.
+    19.1. The system shall use git for versioning system.
+    
+20. The system shall be capable of handling more input files.
+
+21. The system shall use proper amount of data vloume.
+
+22. The system shall use various dynamic data sources for data processing.
+    22.1. The usage of more data processing makes the system more error prone.
+
+23. The system shall store the user's programme for atleast a year.
+
+24. THe system shall use any of the 3 process interactions.
+    24.1. The 3 process are shared memory,implicit and message passing.
 
 Non Functional Requirements
 
