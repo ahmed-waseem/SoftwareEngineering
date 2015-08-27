@@ -1,0 +1,49 @@
+Functional Requirements:
+1. The System Shall take one or multiple files from the user as input
+  1.1. If a single file is given it should be a c/c++ file .
+  1.2. If multiple files are given they should be compressed as a tarball and this single tarball should be uploaded.
+  1.3. The given file should be executable using gcc and appropriate make file must be provided.
+
+2. The System shall profile the files given as input and generate appropriate statistics.
+  2.1. It should identify the bottlenecks and rank the functions.
+
+3. The given file should run irrespective of any architecture.
+  3.1. The given file should run sequentially.
+
+4. The system should provide an option for manual or automatic injection of parallel statements.
+  4.1. The parallel statements could be in Cuda, OpenMP and MPI (could be all three).
+
+5. The system should parallelize in all three parallel platforms and displays which is appropriate.
+
+6. The user must be provided an option of choosing the number of cores required for execution.
+
+7. The system shall have an interactive GUI.
+  7.1. The system shall perform required operation in fewer clicks.
+  7.2. The GUI shall be simple to use and should be understood by people of other domains.
+
+8. The generated files shall be neatly formatted and with appropriate comments.
+
+9. The System Shall be independent of Operating System.
+
+10. The Converted File should be easily downloadable.
+  10.1. If the generated file is single 
+  10.2. If there are multiple files convert it to tarball.
+
+11.  The System shall parallelize and give its Output in the Specified time.
+
+12. The System shall provide account for usage.
+  12.1.  To store files for further Usage.
+
+13.  The Output file must be faster than the serial code.
+
+14. The System shall display the file size and other information after parallelizing.
+
+15. The System shall have the ability to use different algorithms.
+
+Non Functional Requirements
+
+1. The System shall be developed using an object oriented design and development process.
+
+2. The Development process model shall follow an incremental/evolutionary approach.
+
+3. The system shall be maintainable.
