@@ -40,6 +40,22 @@ Functional Requirements:
 
 15. The System shall have the ability to use different algorithms.
 
+16. The system shall use the best locality or memory system.
+
+17. The system shall automatically generate fix suggestions to programmers.
+
+18. The system shall divide the work perfectly among the processors.
+
+19. The system shall provide versioning system.
+    19.1. The system shall use git for versioning system.
+    
+20. The system shall be capable of handling more input files.
+
+21. The system shall use proper amount of data vloume.
+22. The system shall use various dynamic data sources for data processing.
+    22.1. The usage of more data processing makes the system more error prone.
+
+
 Non Functional Requirements
 
 1. The System shall be developed using an object oriented design and development process.
