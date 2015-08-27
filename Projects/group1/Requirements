@@ -62,6 +62,8 @@ Functional Requirements:
 
 24. THe system shall use any of the 3 process interactions.
     24.1. The 3 process are shared memory,implicit and message passing.
+    
+25. The system shall reduce the communication between the processor.
 
 Non Functional Requirements
 
