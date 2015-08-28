@@ -65,6 +65,12 @@ Functional Requirements:
     
 25. The system shall reduce the communication between the processor.
 
+26. The system shall design the code for multiple architecture based on user needs.
+
+27. The system shall minimize the networks across the network.
+
+28. The system shall modify code so the compiler and its optimization routines can improve it for a specific architecture.
+
 Non Functional Requirements
 
 1. The System shall be developed using an object oriented design and development process.
